@@ -73,7 +73,6 @@ node.pos=list(X=c(0,0.5),M1=c(0.5,0.45),M2=c(0.75,0.9),M3=c(0.75,0.1),Y=c(1,0.5)
 curved.arrow=list(c=-0.1)
 drawModel(equation=equation,nodemode=2,node.pos=node.pos,curved.arrow=curved.arrow)
 
-
 equation='M1~X
 M2~X
 M3~X
